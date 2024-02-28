@@ -1,0 +1,14 @@
+.portfolio {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+  }
+  
+  .portfolio .project {
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  .portfolio .project img {
+    max-width: 100%;
+  }

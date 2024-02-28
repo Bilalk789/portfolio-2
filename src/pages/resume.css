@@ -1,0 +1,12 @@
+.resume {
+    padding: 20px;
+  }
+  
+  .resume a {
+    color: #003580;
+    text-decoration: none;
+  }
+  
+  .resume a:hover {
+    text-decoration: underline;
+  }
