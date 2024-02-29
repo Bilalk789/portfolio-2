@@ -6,7 +6,7 @@ function AboutMe() {
     <div className="about-me">
       <h2>About Me</h2>
       <div className="bio">
-        <img src="avatar.jpg" alt="Bilal Khan" className="avatar" />
+        <img src="profile pic.jpg" alt="Bilal Khan" className="avatar" />
         <p>
           I'm Bilal Khan, a passionate web developer with expertise in React.js. 
           I have a strong background in front-end development and enjoy creating 

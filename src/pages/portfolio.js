@@ -6,15 +6,14 @@ function Portfolio() {
     <div>
       <h2>Portfolio</h2>
       <div className="portfolio">
-        {/* Replace the project data with your actual project data */}
         <Project
-          title="Project 1"
+          title="Project 1- GUESS Away"
           imageUrl="project1.jpg"
           deployedLink="KarenDouglas.github.io/word-guessing-game"
           githubLink="https://github.com/KarenDouglas/word-guessing-game"
         />
         <Project
-          title="Project 2"
+          title="Project 2- Travel Babble"
           imageUrl="project2.jpg"
           deployedLink="https://travel-babble-09d9fd202520.herokuapp.com/"
           githubLink="https://github.com/pm-912/travel-planner"

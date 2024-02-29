@@ -7,7 +7,7 @@ function Header() {
     <header className="header">
       <h1>Bilal Khan</h1>
       <nav>
-        <ul className="navigation">
+      <ul className="navigation">
           <li><Link to="/" className="nav-link">About Me</Link></li>
           <li><Link to="/portfolio" className="nav-link">Portfolio</Link></li>
           <li><Link to="/contact" className="nav-link">Contact</Link></li>
