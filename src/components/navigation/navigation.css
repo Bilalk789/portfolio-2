@@ -1,9 +1,9 @@
-
-.navigation {
-  display: flex;
-  justify-content: center;
+.navigation ul {
   list-style-type: none;
   padding: 0;
+  margin: 0;
+  display: flex; 
+  justify-content: center; 
 }
 
 .navigation li {
@@ -11,11 +11,13 @@
 }
 
 .navigation a {
-  color: #676d74;
+  color: #294a70;
   text-decoration: none;
   font-weight: bold;
+  transition: font-size 0.3s; 
 }
 
 .navigation a:hover {
-  text-decoration: underline;
+  text-decoration: none; 
+  font-size: 1.5em; 
 }

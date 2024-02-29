@@ -1,0 +1,41 @@
+.project {
+    border: 1px solid #ccc;
+    padding: 20px;
+    max-width: 100%;
+    box-sizing: border-box;
+    background-color: white;
+    transition: background-color 0.3s; 
+  }
+  
+  .project:hover {
+    background-color: #f0f0f0; 
+  }
+  
+  .project img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .project-details {
+    text-align: center;
+  }
+  
+  .project-details h3 {
+    margin-top: 0;
+  }
+  
+  .project-details p {
+    margin-bottom: 10px;
+  }
+  
+  .project-details a {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .project-details a:hover {
+    text-decoration: underline;
+  }
+  
