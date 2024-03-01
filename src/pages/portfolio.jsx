@@ -9,14 +9,14 @@ function Portfolio() {
         <Project
           title="Project 1- GUESS Away"
           description="A word guessing game built with API's and javascript."
-          imageUrl="project1.jpg"
+          imageUrl="/Users/bilalkhan/Downloads/guess away img.png"
           deployedLink="KarenDouglas.github.io/word-guessing-game"
           githubLink="https://github.com/KarenDouglas/word-guessing-game"
         />
         <Project
           title="Project 2- Travel Babble"
           description="A travel planner application for organizing your trips."
-          imageUrl="project2.jpg"
+          imageUrl="/Users/bilalkhan/Downloads/travel planner.png"
           deployedLink="https://travel-babble-09d9fd202520.herokuapp.com/"
           githubLink="https://github.com/pm-912/travel-planner"
         />
